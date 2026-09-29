@@ -1,461 +1,342 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020403,45:061a0d,75:063d1b,100:00ff66&text=WENDHAUSEN999&fontColor=00ff66&fontSize=52&fontAlignY=38&desc=CYBERSECURITY%20%7C%20KALI%20LINUX%20%7C%20SECURITY%20RESEARCH&descAlignY=61&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050807,50:0A1F14,100:00FF66&text=WENDHAUSEN999&fontColor=00FF66&fontSize=50&fontAlignY=40&desc=CYBERSECURITY%20%7C%20SECURITY%20RESEARCH%20%7C%20KALI%20LINUX&descAlignY=63&descSize=15&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+ONLINE+%5D;%5B+KALI+LINUX+ENVIRONMENT+INITIALIZED+%5D;%5B+CYBERSECURITY+%7C+OSINT+%7C+PENTEST+%5D;%5B+RED+TEAM+%7C+BLUE+TEAM+%5D;%5B+SECURITY+LAB+%3A%3A+IN+DEVELOPMENT+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=820&lines=%5B+CYBERSECURITY+RESEARCH+%5D;%5B+OSINT+%7C+RECONNAISSANCE+%7C+PENTESTING+%5D;%5B+RED+TEAM+%7C+BLUE+TEAM+%5D;%5B+LINUX+%7C+NETWORK+SECURITY+%5D;%5B+SECURITY+LAB+%3A%3A+ACTIVE+%5D" alt="Cybersecurity focus"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OS-KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff66?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/OSINT-RESEARCH-00ff66?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PENTEST-LEARNING-00ff66?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00ff66?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-00FF66?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/OSINT-00FF66?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PENTESTING-00FF66?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SECURITY_RESEARCH-00FF66?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+<br>
+
+## `root@wendhausen999:~$ whoami`
+
+I'm building my path in **Cybersecurity**, with a focus on understanding how systems, networks, and applications can be analyzed, tested, and protected.
+
+My current environment is **Kali Linux**, where I study security fundamentals, reconnaissance, OSINT, penetration testing, networking, Linux security, and both offensive and defensive security methodologies.
+
+I use this profile as a **living security laboratory**: a place to document what I learn, build controlled experiments, develop practical projects, and turn theoretical knowledge into technical understanding.
+
+My approach is centered on understanding systems before attempting to test them, documenting findings, and using offensive security knowledge to develop a stronger defensive perspective.
+
+> **Learn the attack. Understand the defense. Build better security.**
+
+---
+
+## 🛡️ Cybersecurity
+
+<div align="center">
+
+|  Offensive Security | Defensive Security |
+| :-----------------: | :----------------: |
+| Penetration Testing |  Threat Detection  |
+|    Reconnaissance   | Network Monitoring |
+|     Enumeration     |    Log Analysis    |
+|     Web Security    |  Incident Analysis |
+|       Red Team      | Security Hardening |
+
+<br>
+
+| Security Intelligence |      Infrastructure     |
+| :-------------------: | :---------------------: |
+|         OSINT         |        Kali Linux       |
+| Information Gathering |          Linux          |
+|  Digital Footprinting |        Networking       |
+|  Threat Intelligence  |      Virtualization     |
+|   Security Research   | Security Infrastructure |
 
 </div>
 
 ---
-# `root@wendhausen999:~$ whoami`
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     SECURITY PROFILE                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  USER        :: Wendhausen999                                │
-│  SYSTEM      :: Kali Linux                                   │
-│  FIELD       :: Cybersecurity                                │
-│  STATUS      :: Learning / Research /
-│ Building               
-│                                                              │
-│  INTERESTS                                                     │
-│  ├── Offensive Security                                      │
-│  ├── Defensive Security                                      │
-│  ├── OSINT                                                   │
-│  ├── Penetration Testing                                     │
-│  ├── Red Team                                                │
-│  ├── Blue Team                                               │
-│  ├── Network Security                                        │
-│  ├── Web Security                                            │
-│  └── Linux Security                                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
-I'm building my path in cybersecurity, with a strong interest in understanding how systems, networks and applications can be attacked, analyzed and protected.
+## 🔎 Security Methodology
 
-My current environment is Kali Linux, where I study security concepts, tools, reconnaissance, OSINT, penetration testing and both offensive and defensive security methodologies.
+My current learning methodology follows a structured security assessment process:
 
-This profile is a living security laboratory — everything here will evolve as I learn, build and document new projects.
+**Reconnaissance**
 
-> **Learn the attack. Understand the defense. Build better security.**
+OSINT · DNS · Information Gathering · Digital Footprinting
 
-# `01 // CYBERSECURITY FOCUS`
+↓
 
-<div align="center">
+**Enumeration**
 
-| 🔴 Offensive Security | 🔵 Defensive Security |
-|:---:|:---:|
-| Penetration Testing | Threat Detection |
-| Red Team | Network Monitoring |
-| Reconnaissance | Log Analysis |
-| Enumeration | Incident Analysis |
-| Web Security | Security Hardening |
+Ports · Services · Technologies · Attack Surface
 
-<br>
+↓
 
-| 🛰️ Intelligence | 🐧 Infrastructure |
-|:---:|:---:|
-| OSINT | Kali Linux |
-| Information Gathering | Linux |
-| Digital Footprinting | Networking |
-| Threat Intelligence | Virtualization |
-| Security Labs | Security Infrastructure |
+**Analysis**
 
-</div>
+Vulnerabilities · Configurations · Attack Vectors
 
-# `02 // SECURITY MINDSET`
+↓
 
-```text
-                        ┌─────────────────┐
-                        │     TARGET      │
-                        └────────┬────────┘
-                                 │
-                                 ▼
-                      ┌─────────────────────┐
-                      │   RECONNAISSANCE    │
-                      │     OSINT / DNS     │
-                      └──────────┬──────────┘
-                                 │
-                                 ▼
-                      ┌─────────────────────┐
-                      │     ENUMERATION     │
-                      │  Ports / Services   │
-                      │   Technologies      │
-                      └──────────┬──────────┘
-                                 │
-                                 ▼
-                      ┌─────────────────────┐
-                      │ VULNERABILITY       │
-                      │     ANALYSIS        │
-                      └──────────┬──────────┘
-                                 │
-                                 ▼
-                      ┌─────────────────────┐
-                      │     VALIDATION      │
-                      │  Controlled Testing │
-                      └──────────┬──────────┘
-                                 │
-                                 ▼
-                      ┌─────────────────────┐
-                      │     REPORTING       │
-                      │  Evidence / Impact  │
-                      └──────────┬──────────┘
-                                 │
-                                 ▼
-                      ┌─────────────────────┐
-                      │    REMEDIATION      │
-                      │   Secure the System │
-                      └─────────────────────┘
-```
+**Validation**
 
-> All security testing is performed in authorized labs, CTFs and controlled environments.
+Controlled Testing · Evidence Collection · Reproduction
 
+↓
 
+**Documentation**
 
-# `03 // TECHNOLOGY STACK`
+Findings · Impact · Technical Evidence · Analysis
+
+↓
+
+**Remediation**
+
+Hardening · Mitigation · Defensive Improvements
+
+> Security testing is performed only in **authorized laboratories, CTFs, and controlled environments**.
+
+---
+
+## 💻 Technology Stack
 
 <div align="center">
 
-### 🐧 Operating Systems
+### Operating Systems
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 
 <br><br>
 
-### 💻 Programming & Scripting
+### Programming & Scripting
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff66"/>
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff66"/>
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff66"/>
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00ff66"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff66"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF66"/>
 
 <br><br>
 
-### 🌐 Infrastructure & Development
+### Development & Infrastructure
 
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff66"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff66"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00ff66"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=00FF66"/>
 
 </div>
 
+---
 
-
-# `04 // SECURITY TOOLKIT`
+## 🔐 Security Toolkit
 
 <div align="center">
 
-| 🔎 RECONNAISSANCE | 🌐 WEB SECURITY | 🛡️ NETWORK SECURITY |
-|:---:|:---:|:---:|
-| Nmap | Burp Suite | Wireshark |
-| OSINT | OWASP | Network Analysis |
-| Enumeration | Web Testing | Traffic Analysis |
+| Reconnaissance | Web Security | Network Security |
+| :------------: | :----------: | :--------------: |
+|      Nmap      |  Burp Suite  |     Wireshark    |
+|      OSINT     |     OWASP    | Network Analysis |
+|   Enumeration  |  Web Testing | Traffic Analysis |
 
 <br>
 
-| ⚔️ OFFENSIVE SECURITY | 🐧 LINUX | 🔧 DEVELOPMENT |
-|:---:|:---:|:---:|
-| Metasploit | Kali Linux | Python |
-| Penetration Testing | Bash | Git |
-| Red Team | Linux | GitHub |
+|  Offensive Security |    Linux   | Development |
+| :-----------------: | :--------: | :---------: |
+|      Metasploit     | Kali Linux |    Python   |
+| Penetration Testing |    Bash    |     Git     |
+|       Red Team      |    Linux   |    GitHub   |
 
 </div>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SECURITY TOOLKIT                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  RECON        :: Nmap / OSINT / Enumeration                  │
-│  WEB          :: Burp Suite / OWASP                          │
-│  NETWORK      :: Wireshark / Traffic Analysis                │
-│  OFFENSIVE    :: Metasploit / Pentesting                     │
-│  LINUX        :: Kali Linux / Bash                           │
-│  DEVELOPMENT  :: Python / Git                                │
-│                                                              │
-│  STATUS       :: LEARNING / RESEARCH / DEVELOPMENT            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+---
 
-# `05 // AREAS OF STUDY`
+## 📚 Areas of Study
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  [01] OSINT                                                │
-│       ├── Information Gathering                            │
-│       ├── Digital Footprinting                             │
-│       ├── Reconnaissance                                   │
-│       └── Open Source Intelligence                         │
-│                                                            │
-│  [02] PENTESTING                                           │
-│       ├── Reconnaissance                                   │
-│       ├── Enumeration                                      │
-│       ├── Vulnerability Analysis                            │
-│       ├── Web Security                                     │
-│       └── Security Testing                                 │
-│                                                            │
-│  [03] RED TEAM                                             │
-│       ├── Attack Simulation                                │
-│       ├── Reconnaissance                                   │
-│       ├── Initial Access                                   │
-│       └── Adversary Simulation                             │
-│                                                            │
-│  [04] BLUE TEAM                                            │
-│       ├── Monitoring                                       │
-│       ├── Detection                                        │
-│       ├── Incident Analysis                                │
-│       └── Defensive Security                               │
-│                                                            │
-│  [05] LINUX                                                │
-│       ├── Kali Linux                                       │
-│       ├── Bash                                             │
-│       ├── Networking                                       │
-│       └── Security Tooling                                 │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+### OSINT
 
-# `06 // PROJECTS`
+* Open Source Intelligence
+* Information Gathering
+* Digital Footprinting
+* Reconnaissance
+* Threat Intelligence
 
-🚧 **Security Lab — IN DEVELOPMENT**
+### Penetration Testing
 
-```text
-STATUS :: ███████████████░░░░░  DEVELOPMENT
+* Reconnaissance
+* Enumeration
+* Vulnerability Analysis
+* Web Security
+* Security Testing
+* Technical Documentation
 
-CURRENT STAGE
+### Red Team
 
-├── Building cybersecurity environment
-├── Studying Kali Linux
-├── Practicing reconnaissance
-├── Studying OSINT
-├── Practicing penetration testing
-├── Exploring Red Team methodologies
-└── Exploring Blue Team methodologies
-```
+* Attack Simulation
+* Reconnaissance
+* Initial Access Concepts
+* Adversary Simulation
+* Offensive Security Methodologies
 
-### 🔐 FUTURE PROJECTS
+### Blue Team
 
-```text
-[ PLANNED ]
+* Monitoring
+* Detection
+* Incident Analysis
+* Defensive Security
+* Security Hardening
 
-├── 🛰️ OSINT Toolkit
-├── 🔎 Reconnaissance Automation
-├── 🌐 Web Security Laboratory
-├── 🐧 Linux Security Laboratory
-├── 🐍 Python Security Toolkit
-├── 📡 Network Analysis Laboratory
-└── 🛡️ Defensive Security Laboratory
-```
+### Linux Security
 
-# `07 // CURRENT MISSION`
+* Kali Linux
+* Linux Fundamentals
+* Bash
+* Networking
+* Security Tooling
+* Security Infrastructure
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    CURRENT MISSION                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [01] Strengthen Linux fundamentals                          │
-│  [02] Improve networking knowledge                           │
-│  [03] Study OSINT and reconnaissance                         │
-│  [04] Practice penetration testing                           │
-│  [05] Study Red Team methodologies                           │
-│  [06] Study Blue Team methodologies                          │
-│  [07] Learn security automation                              │
-│  [08] Build controlled security laboratories                 │
-│  [09] Document research and learning                         │
-│  [10] Build cybersecurity projects                           │
-│                                                              │
-│  STATUS :: ACTIVE                                            │
-│  MODE   :: LEARNING / RESEARCH / DEVELOPMENT                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+---
 
-# `08 // GITHUB TELEMETRY`
+## 🧪 Security Lab
+
+My security laboratory is currently focused on developing strong technical foundations through study, experimentation, documentation, and controlled environments.
+
+### Current Focus
+
+* Strengthening Linux fundamentals
+* Improving networking knowledge
+* Studying reconnaissance methodologies
+* Developing OSINT skills
+* Practicing penetration testing in controlled environments
+* Exploring Red Team methodologies
+* Exploring Blue Team methodologies
+* Learning security automation
+* Building repeatable security laboratories
+* Documenting technical research and learning
+
+### Planned Projects
+
+| Project                    | Objective                                                    |
+| :------------------------- | :----------------------------------------------------------- |
+| 🛰️ OSINT Toolkit          | Build practical tools for information gathering and research |
+| 🔎 Recon Automation        | Automate selected reconnaissance workflows                   |
+| 🌐 Web Security Lab        | Study web security concepts in controlled environments       |
+| 🐧 Linux Security Lab      | Develop Linux hardening and security experiments             |
+| 🐍 Python Security Toolkit | Build security-focused Python utilities                      |
+| 📡 Network Analysis Lab    | Study network traffic and analysis techniques                |
+| 🛡️ Defensive Security Lab | Explore monitoring, detection, and hardening                 |
+
+---
+
+## 🎯 Current Mission
 
 <div align="center">
 
-### 📊 GitHub Statistics
+| Area                    |   Focus   |
+| :---------------------- | :-------: |
+| Linux Fundamentals      | 🔄 Active |
+| Networking              | 🔄 Active |
+| OSINT                   | 🔄 Active |
+| Reconnaissance          | 🔄 Active |
+| Penetration Testing     | 🔄 Active |
+| Red Team                | 🔄 Active |
+| Blue Team               | 🔄 Active |
+| Security Automation     | 🔄 Active |
+| Security Laboratories   | 🔄 Active |
+| Technical Documentation | 🔄 Active |
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wendhausen999&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" alt="GitHub Statistics"/>
+</div>
+
+My current objective is not simply to collect tools or techniques, but to understand **why they work, when they should be used, how they can be detected, and how systems can be better protected against them**.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wendhausen999&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=94A3B8&bg_color=0D1117" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendhausen999&layout=compact&langs_count=8&hide_border=true&title_color=00FF66&text_color=94A3B8&bg_color=0D1117" alt="Top Languages"/>
 
 <br><br>
 
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendhausen999&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages"/>
-
-<br><br>
-
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=Wendhausen999&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=FFFFFF" alt="Contribution Streak"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=Wendhausen999&hide_border=true&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" alt="GitHub Contribution Streak"/>
 
 </div>
 
-# `09 // GITHUB ACTIVITY`
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
-### 📡 ACTIVITY MONITOR
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    GITHUB ACTIVITY                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  USER        :: Wendhausen999                                │
-│  PLATFORM    :: GitHub                                       │
-│  STATUS      :: ACTIVE                                       │
-│                                                              │
-│  CONTRIBUTIONS & DEVELOPMENT ACTIVITY                        │
-│                                                              │
-│  Projects       :: IN DEVELOPMENT                            │
-│  Security Lab  :: ACTIVE                                     │
-│  Research      :: ACTIVE                                     │
-│  Learning      :: CONTINUOUS                                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
-# `10 // CONTRIBUTION ACTIVITY`
+---
+
+## 🧠 Security Philosophy
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                 CONTRIBUTION ACTIVITY                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   USER        :: Wendhausen999                               ║
-║   SYSTEM      :: GITHUB                                      ║
-║   MONITOR     :: CONTRIBUTIONS                               ║
-║                                                              ║
-║   COMMITS      :: TRACKING                                   ║
-║   PROJECTS     :: DEVELOPING                                 ║
-║   RESEARCH     :: ACTIVE                                     ║
-║   LEARNING     :: CONTINUOUS                                 ║
-║                                                              ║
-║   STATUS       :: ONLINE                                     ║
-║   MONITORING   :: ACTIVE                                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-# `11 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake.svg" alt="GitHub Contribution Snake">
-
-<br><br>
-
-```text
-🐍 CONTRIBUTION SNAKE
-
-USER      :: Wendhausen999
-SYSTEM    :: GITHUB
-MODE      :: AUTOMATED
-STATUS    :: ACTIVE
-
-TRACKING CONTRIBUTION ACTIVITY...
-```
-
-</div>
-
-# `12 // SECURITY PHILOSOPHY`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    SECURITY PHILOSOPHY                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   > THINK BEFORE YOU EXECUTE                                 ║
-║   > UNDERSTAND BEFORE YOU EXPLOIT                            ║
-║   > OBSERVE BEFORE YOU ACT                                   ║
-║   > SECURITY IS A CONTINUOUS PROCESS                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### `01` — Learn
+### Learn
 
 Understand the technology before attempting to break it.
 
-### `02` — Analyze
+### Analyze
 
-Look for vulnerabilities, patterns and attack surfaces.
+Identify vulnerabilities, patterns, attack surfaces, and potential impact.
 
-### `03` — Practice
+### Practice
 
-Build labs, test environments and controlled experiments.
+Build laboratories and controlled environments where concepts can be tested safely.
 
-### `04` — Protect
+### Document
 
-Use offensive knowledge to understand and improve defense.
+Record methodology, observations, evidence, and lessons learned.
 
-### `05` — Evolve
+### Protect
 
-Cybersecurity is a continuous learning process.
+Use offensive knowledge to understand defensive requirements and improve security.
+
+### Evolve
+
+Cybersecurity is a continuous process of learning, experimentation, and refinement.
 
 </div>
 
 > **Knowledge without responsibility is not security.**
 
-# `13 // CONNECT`
+---
+
+## 🤝 Connect
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                         CONNECT                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   GITHUB                                                     ║
-║   └── https://github.com/Wendhausen999                       ║
-║                                                              ║
-║   STATUS      :: ONLINE                                      ║
-║   NETWORK     :: OPEN                                        ║
-║   COLLAB      :: AVAILABLE                                   ║
-║                                                              ║
-║   Interested in cybersecurity, research, labs or projects?   ║
-║   Feel free to explore the repositories and connect.         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <a href="https://github.com/Wendhausen999">
-<img src="https://img.shields.io/badge/GitHub-Wendhausen999-00FF66?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Wendhausen999-00FF66?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
 </a>
+
+<br><br>
+
+**Cybersecurity · Security Research · OSINT · Linux · Pentesting**
+
+<br><br>
+
+I'm interested in cybersecurity research, security laboratories, technical projects, and continuous learning.
+
+Feel free to explore my repositories and follow the development of my work.
 
 </div>
 
@@ -463,10 +344,10 @@ Cybersecurity is a continuous learning process.
 
 <div align="center">
 
-```text
-[ SYSTEM ONLINE ]
-[ SECURITY RESEARCH IN PROGRESS ]
-[ KEEP LEARNING // KEEP BUILDING ]
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00FF66,100:0D1117"/>
+
+**SYSTEM ONLINE · SECURITY RESEARCH IN PROGRESS**
+
+*Keep learning. Keep building. Keep improving.*
 
 </div>
