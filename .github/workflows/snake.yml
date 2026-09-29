@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate GitHub Contribution Snake
 
 on:
   schedule:
@@ -10,16 +10,16 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    permissions:
-      contents: write
+    timeout-minutes: 5
 
     steps:
-      - name: Generate GitHub Contribution Snake
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,7 +27,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Deploy Snake to Output Branch
+      - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
