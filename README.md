@@ -1,20 +1,33 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Wendhausen999" src="./light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/main/light.svg">
+  <img alt="Wendhausen999" src="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/main/light.svg">
 </picture>
 
 </div>
 
 <br>
 
-## `root@wendhausen999:~$ whoami`
+<div align="center">
+
+### `root@wendhausen999:~$ whoami`
+
+</div>
+
+```text
+┌──[ SYSTEM.INFO ]──────────────────────────────────────────────┐
+  Subject ........ Lucas Wendhausen
+  Role ........... Cybersecurity Student
+  Environment .... Kali Linux
+  Focus .......... Recon · OSINT · Pentesting · Networking
+  Approach ....... Offensive + Defensive
+  Status ......... Learning + Testing + Documenting
+└───────────────────────────────────────────────────────────────┘
+```
 
 I'm building my path in **Cybersecurity**, focused on understanding how systems, networks, and applications can be analyzed, tested, and protected.
-
-My environment is **Kali Linux**, where I study reconnaissance, OSINT, penetration testing, networking, Linux security, and both offensive and defensive methodologies.
 
 This profile is my **living security laboratory**: a place to document what I learn, build controlled experiments, and turn theory into technical understanding.
 
@@ -24,9 +37,11 @@ This profile is my **living security laboratory**: a place to document what I le
 
 ## 🔎 Methodology
 
-**Reconnaissance** → **Enumeration** → **Analysis** → **Validation** → **Documentation** → **Remediation**
+```text
+Reconnaissance → Enumeration → Analysis → Validation → Documentation → Remediation
+```
 
-> Security testing is performed only in **authorized laboratories, CTFs, and controlled environments**.
+> ⚠️ Security testing is performed only in **authorized laboratories, CTFs, and controlled environments**.
 
 ---
 
@@ -75,9 +90,11 @@ This profile is my **living security laboratory**: a place to document what I le
 
 ## 🧪 Security Lab
 
-**Current focus:**
-
-`Linux Fundamentals` · `Networking` · `Reconnaissance` · `OSINT` · `Pentesting` · `Red Team` · `Blue Team` · `Security Automation` · `Technical Documentation`
+```text
+Current focus:
+Linux Fundamentals · Networking · Reconnaissance · OSINT · Pentesting
+Red Team · Blue Team · Security Automation · Technical Documentation
+```
 
 | Planned Project | Objective |
 | :--- | :--- |
@@ -95,9 +112,11 @@ This profile is my **living security laboratory**: a place to document what I le
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Wendhausen999&show_icons=true&hide_border=true&theme=dark&bg_color=0A101F&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Wendhausen999&hide_border=true&background=0A101F&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B&card_width=1180" alt="GitHub streak" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendhausen999&layout=compact&hide_border=true&theme=dark&bg_color=0A101F&title_color=00FF66&text_color=FFFFFF" />
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Wendhausen999&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=0A101F&card_width=500" alt="GitHub stats" />
 
 </div>
 
@@ -108,21 +127,10 @@ This profile is my **living security laboratory**: a place to document what I le
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake.svg" />
 </picture>
-
-</div>
-
----
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Wendhausen999&show_icons=true&hide_border=true&theme=dark&bg_color=0A101F&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendhausen999&layout=compact&hide_border=true&theme=dark&bg_color=0A101F&title_color=00FF66&text_color=FFFFFF" />
 
 </div>
 
@@ -130,14 +138,16 @@ This profile is my **living security laboratory**: a place to document what I le
 
 ## 🎯 Objectives
 
-- Build a strong foundation in cybersecurity
-- Improve Linux and networking knowledge
-- Develop practical reconnaissance skills
-- Study web application security
-- Build security automation tools
-- Understand offensive and defensive methodologies
-- Document technical experiments and findings
-- Develop projects through controlled labs and CTFs
+```text
+[x] Build a strong foundation in cybersecurity
+[ ] Improve Linux and networking knowledge
+[ ] Develop practical reconnaissance skills
+[ ] Study web application security
+[ ] Build security automation tools
+[ ] Understand offensive and defensive methodologies
+[ ] Document technical experiments and findings
+[ ] Develop projects through controlled labs and CTFs
+```
 
 ---
 
