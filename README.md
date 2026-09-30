@@ -116,6 +116,17 @@ This profile is my **living security laboratory**: a place to document what I le
 </div>
 
 ---
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Wendhausen999&show_icons=true&hide_border=true&theme=dark&bg_color=0A101F&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendhausen999&layout=compact&hide_border=true&theme=dark&bg_color=0A101F&title_color=00FF66&text_color=FFFFFF" />
+
+</div>
+
+---
 
 ## 🎯 Objectives
 
