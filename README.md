@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Lucas Wendhausen - Cybersecurity Student" width="100%" />
+<img src="header.svg" alt="Lucas Wendhausen - Cybersecurity Student" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-0A101F?style=flat-square&logo=kalilinux&logoColor=00FF66&labelColor=0A101F&color=00FF66" alt="Kali Linux" />
@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="assets/about.svg" alt="About" width="100%" />
+<img src="about.svg" alt="About" width="100%" />
 
 I'm building my path in **Cybersecurity**, focused on understanding how systems, networks and applications can be analyzed, tested and protected.
 
@@ -19,7 +19,7 @@ This profile is my **living security laboratory**: a place to document what I le
 
 > **Learn the attack. Understand the defense. Build better security.**
 
-<img src="assets/methodology.svg" alt="Methodology" width="100%" />
+<img src="methodology.svg" alt="Methodology" width="100%" />
 
 <div align="center">
 
@@ -30,7 +30,7 @@ This profile is my **living security laboratory**: a place to document what I le
 > [!WARNING]
 > Security testing is performed **only** in authorized laboratories, CTFs and controlled environments.
 
-<img src="assets/focus.svg" alt="Focus Areas" width="100%" />
+<img src="focus.svg" alt="Focus Areas" width="100%" />
 
 <div align="center">
 
@@ -44,7 +44,7 @@ This profile is my **living security laboratory**: a place to document what I le
 
 </div>
 
-<img src="assets/stack.svg" alt="Tech Stack" width="100%" />
+<img src="stack.svg" alt="Tech Stack" width="100%" />
 
 <div align="center">
 
@@ -67,7 +67,7 @@ This profile is my **living security laboratory**: a place to document what I le
 
 </div>
 
-<img src="assets/lab.svg" alt="Security Lab" width="100%" />
+<img src="lab.svg" alt="Security Lab" width="100%" />
 
 | Project | Objective |
 | :-- | :-- |
@@ -79,7 +79,7 @@ This profile is my **living security laboratory**: a place to document what I le
 | 📡 **Network Analysis Lab** | Network traffic and analysis techniques |
 | 🛡️ **Defensive Security Lab** | Detection, monitoring and hardening experiments |
 
-<img src="assets/activity.svg" alt="Activity" width="100%" />
+<img src="activity.svg" alt="Activity" width="100%" />
 
 <div align="center">
 
@@ -91,7 +91,7 @@ This profile is my **living security laboratory**: a place to document what I le
 
 </div>
 
-<img src="assets/objectives.svg" alt="Objectives" width="100%" />
+<img src="objectives.svg" alt="Objectives" width="100%" />
 
 - [x] Build a strong foundation in cybersecurity
 - [ ] Improve Linux and networking knowledge
@@ -102,11 +102,11 @@ This profile is my **living security laboratory**: a place to document what I le
 - [ ] Document technical experiments and findings
 - [ ] Develop projects through controlled labs and CTFs
 
-<img src="assets/ethics.svg" alt="Ethics" width="100%" />
+<img src="ethics.svg" alt="Ethics" width="100%" />
 
 > **Understand systems before attacking them.**  
 > **Test only what you are authorized to test.**  
 > **Document what you learn.**  
 > **Use knowledge to build better security.**
 
-<img src="assets/footer.svg" alt="Keep learning. Keep testing. Keep securing." width="100%" />
+<img src="footer.svg" alt="Keep learning. Keep testing. Keep securing." width="100%" />
