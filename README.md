@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Lucas Wendhausen — Cybersecurity Student" width="100%" />
+<img src="assets/header.svg" alt="Lucas Wendhausen - Cybersecurity Student" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-0A101F?style=flat-square&logo=kalilinux&logoColor=00FF66&labelColor=0A101F&color=00FF66" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Focus-Offensive_%2B_Defensive-0A101F?style=flat-square&labelColor=0A101F&color=00FF66" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Learning_%26_Testing-0A101F?style=flat-square&labelColor=0A101F&color=00FF66" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=Wendhausen999&label=Views&color=00FF66&style=flat-square&labelColor=0A101F" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Wendhausen999?style=flat-square&logo=github&logoColor=00FF66&labelColor=0A101F&color=00FF66" alt="GitHub followers" />
 </p>
 
 </div>
@@ -82,15 +82,6 @@ This profile is my **living security laboratory**: a place to document what I le
 <img src="assets/activity.svg" alt="Activity" width="100%" />
 
 <div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=Wendhausen999&hide_border=true&background=0A101F&stroke=00FF6633&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub streak" />
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wendhausen999&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=E2E8F0&bg_color=0A101F" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendhausen999&layout=compact&hide_border=true&title_color=00FF66&text_color=E2E8F0&bg_color=0A101F" alt="Top languages" />
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendhausen999/Wendhausen999/output/github-snake-dark.svg" />
