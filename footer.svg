@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-label="Keep learning. Keep testing. Keep securing.">
-<defs><style>.blink{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style></defs>
-<rect x="0.5" y="0.5" width="999" height="63" rx="10" fill="#0A101F" stroke="#00FF66" stroke-opacity="0.3"/>
-<text x="500" y="38" text-anchor="middle" font-size="15" fill="#94A3B8" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace"><tspan fill="#00FF66">root@wendhausen999:~$</tspan> echo "Keep learning. Keep testing. Keep securing."</text>
-</svg>
