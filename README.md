@@ -94,13 +94,13 @@ This profile is my **living security laboratory**: a place to document what I le
 <img src="objectives.svg" alt="Objectives" width="100%" />
 
 - [x] Build a strong foundation in cybersecurity
-- [ ] Improve Linux and networking knowledge
-- [ ] Develop practical reconnaissance skills
-- [ ] Study web application security
-- [ ] Build security automation tools
-- [ ] Understand offensive and defensive methodologies
-- [ ] Document technical experiments and findings
-- [ ] Develop projects through controlled labs and CTFs
+- [x] Improve Linux and networking knowledge
+- [x] Develop practical reconnaissance skills
+- [x] Study web application security
+- [x] Build security automation tools
+- [x] Understand offensive and defensive methodologies
+- [x] Document technical experiments and findings
+- [x] Develop projects through controlled labs and CTFs
 
 <img src="ethics.svg" alt="Ethics" width="100%" />
 
